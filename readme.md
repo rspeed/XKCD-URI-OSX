@@ -22,7 +22,7 @@ There's nothing to do except have the app on your hard drive. When you click on 
 
 Try out some of these links:
 
-* [Python](xkcd://353)
-* [Little Bobby Tables](xkcd://327)
-* [GOTO](xkcd://292/) Link has a traling slash.
-* [Compiling](xkcd://303vwmjqkrcg) Extra gibberish to ignore.
+* <a href="xkcd://353">Python</a>
+* <a href="xkcd://327">Little Bobby Tables</a>
+* <a href="xkcd://292/">GOTO</a> – Link has a traling slash.
+* <a href="xkcd://303vwmjqkrcg">Compiling</a> - Link has extra gibberish to ignore.
