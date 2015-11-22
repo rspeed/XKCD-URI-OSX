@@ -19,10 +19,3 @@ Note: Out of the box, [py2app is broken in El Capitan](https://forums.developer.
 ## Using
 
 There's nothing to do except have the app on your hard drive. When you click on a link that uses the xkcd scheme, it will simply open the comic in your web browser.
-
-Try out some of these links:
-
-* <a href="xkcd://353">Python</a>
-* <a href="xkcd://327">Little Bobby Tables</a>
-* <a href="xkcd://292/">GOTO</a> – Link has a traling slash.
-* <a href="xkcd://303vwmjqkrcg">Compiling</a> - Link has extra gibberish to ignore.
